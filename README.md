@@ -15,8 +15,8 @@ Fork 自[https://github.com/fanmingming/live](https://github.com/fanmingming/liv
   <tbody>
     <tr>
       <td>📺我的直播源</td>
-      <td><a href="https://live.g0ngjie.com/tv/m3u/index.m3u">https://live.g0ngjie.com/tv/m3u/index.m3u</a></td>
-      <td><a href="https://github.com/g0ngjie/tvlive/edit/master/tv/m3u/index.m3u">编辑该源</a></td>
+      <td><a href="https://live.g0ngjie.com/tv/m3u/me.m3u">https://live.g0ngjie.com/tv/m3u/me.m3u</a></td>
+      <td><a href="https://github.com/g0ngjie/tvlive/edit/master/tv/m3u/me.m3u">编辑该源</a></td>
     </tr>
     <tr>
       <td>🌏Global直播源</td>
