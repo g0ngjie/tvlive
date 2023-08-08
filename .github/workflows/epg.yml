@@ -17,4 +17,4 @@ jobs:
           git config --global user.email gongjie0422@163.com
           git add e.xml
           git commit -m "Update e.xml"
-          git push -f origin main
+          git push -f origin master
