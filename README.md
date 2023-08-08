@@ -31,3 +31,9 @@ Fork 自[https://github.com/fanmingming/live](https://github.com/fanmingming/liv
 - [x] 央视、卫视
 - [ ] 斗鱼 关注 和 电影播放
 - [ ] 虎牙 关注 和 电影播放
+
+## 相关资源传送门
+
+- [直播源相关资源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+- [直播源合集](https://zhuanlan.zhihu.com/p/603236224)
+- [Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV)
