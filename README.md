@@ -25,3 +25,9 @@ Fork 自[https://github.com/fanmingming/live](https://github.com/fanmingming/liv
     </tr>
   </tbody>
 </table>
+
+## 📖 功能列表
+
+- [x] 央视、卫视
+- [ ] 斗鱼 关注 和 电影播放
+- [ ] 虎牙 关注 和 电影播放
