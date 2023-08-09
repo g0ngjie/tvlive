@@ -34,7 +34,7 @@ Fork 自[https://github.com/fanmingming/live](https://github.com/fanmingming/liv
 
 ## 相关资源传送门
 
-- [吊炸天直播源工具](https://github.com/Borber/seam)
-- [直播源相关资源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
-- [直播源合集](https://zhuanlan.zhihu.com/p/603236224)
+- [吊炸天直播源工具 https://github.com/Borber/seam](https://github.com/Borber/seam)
+- [直播源相关资源汇总 https://github.com/imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+- [直播源合集 https://zhuanlan.zhihu.com/p/603236224](https://zhuanlan.zhihu.com/p/603236224)
 - [Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV)
