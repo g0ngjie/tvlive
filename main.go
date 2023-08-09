@@ -61,8 +61,7 @@ func pkgContent(cfg []Config) (content string) {
 }
 
 func writeM3UFile(list string) {
-	data, _ := yaml.Marshal(list)
-	os.WriteFile(WriteM3UPath, data, 0777)
+	os.WriteFile(WriteM3UPath, []byte(list), 0777)
 }
 
 func main() {
