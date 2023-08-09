@@ -1,0 +1,390 @@
+# 央视
+# name 自动识别为 tvg-name、tvg-id、group-title
+- type: cctv
+  group: 央视
+  list:
+    - name: CCTV1
+      logo: tv/CCTV1.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv1
+    - name: CCTV2
+      logo: tv/CCTV2.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv2
+    - name: CCTV3
+      logo: tv/CCTV3.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv3
+    - name: CCTV4
+      logo: tv/CCTV4.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv4
+    - name: CCTV4K
+      logo: tv/CCTV4K.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv4k
+    - name: CCTV5
+      logo: tv/CCTV5.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv5
+    - name: CCTV5+
+      logo: tv/CCTV5+.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv5p
+    - name: CCTV6
+      logo: tv/CCTV6.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv6
+    - name: CCTV7
+      logo: tv/CCTV7.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv7
+    - name: CCTV8
+      logo: tv/CCTV8.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv8
+    - name: CCTV9
+      logo: tv/CCTV9.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv9
+    - name: CCTV10
+      logo: tv/CCTV10.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv10
+    - name: CCTV11
+      logo: tv/CCTV11.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv11
+    - name: CCTV12
+      logo: tv/CCTV12.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv12
+    - name: CCTV13
+      logo: tv/CCTV13.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv13
+    - name: CCTV14
+      logo: tv/CCTV14.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv14
+    - name: CCTV15
+      logo: tv/CCTV15.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv15
+    - name: CCTV16
+      logo: tv/CCTV16.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv16
+    - name: CCTV16 4K
+      logo: tv/CCTV16.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv164k
+    - name: CCTV17
+      logo: tv/CCTV17.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv17
+    - name: CCTV4K
+      logo: tv/CCTV4K.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cctv4k
+# 地方卫视
+- type: localTV
+  group: 地方卫视
+  list:
+    - name: CGTN
+      logo: tv/CGTN.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cgtn
+    - name: 北京卫视
+      logo: tv/北京卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=bjws
+    - name: 东方卫视
+      logo: tv/东方卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=dfws
+    - name: 天津卫视
+      logo: tv/天津卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=tjws
+    - name: 重庆卫视
+      logo: tv/重庆卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cqws
+    - name: 黑龙江卫视
+      logo: tv/黑龙江卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hljws
+    - name: 吉林卫视
+      logo: tv/吉林卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=jlws
+    - name: 辽宁卫视
+      logo: tv/辽宁卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=lnws
+    - name: 内蒙古卫视
+      logo: tv/内蒙古卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=nmws
+    - name: 宁夏卫视
+      logo: tv/宁夏卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=nxws
+    - name: 甘肃卫视
+      logo: tv/甘肃卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=gsws
+    - name: 青海卫视
+      logo: tv/青海卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=qhws
+    - name: 陕西卫视
+      logo: tv/陕西卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=sxws
+    - name: 河北卫视
+      logo: tv/河北卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hbws
+    - name: 山西卫视
+      logo: tv/山西卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=sxiws
+    - name: 山东卫视
+      logo: tv/山东卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=sdws
+    - name: 安徽卫视
+      logo: tv/安徽卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=ahws
+    - name: 河南卫视
+      logo: tv/河南卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hnws
+    - name: 湖北卫视
+      logo: tv/湖北卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hubws
+    - name: 湖南卫视
+      logo: tv/湖南卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hunws
+    - name: 江西卫视
+      logo: tv/江西卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=jxws
+    - name: 江苏卫视
+      logo: tv/江苏卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=jsws
+    - name: 浙江卫视
+      logo: tv/浙江卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=zjws
+    - name: 东南卫视
+      logo: tv/东南卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=dnws
+    - name: 厦门卫视
+      logo: tv/厦门卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=xmws
+    - name: 广东卫视
+      logo: tv/广东卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=gdws
+    - name: 深圳卫视
+      logo: tv/深圳卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=szws
+    - name: 广西卫视
+      logo: tv/广西卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=gxws
+    - name: 云南卫视
+      logo: tv/云南卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=ynws
+    - name: 贵州卫视
+      logo: tv/贵州卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=gzws
+    - name: 四川卫视
+      logo: tv/四川卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=scws
+    - name: 康巴卫视
+      logo: tv/康巴卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=kbws
+    - name: 新疆卫视
+      logo: tv/新疆卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=xjws
+    - name: 兵团卫视
+      logo: tv/兵团卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=btws
+    - name: 西藏卫视
+      logo: tv/西藏卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=xzws
+    - name: 海南卫视
+      logo: tv/海南卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hinws
+    - name: 三沙卫视
+      logo: tv/三沙卫视.png
+      url: https://cntv.sbs/live?auth=2307280808&id=ssws
+    - name: 北京纪实科教
+      logo: tv/北京纪实科教.png
+      url: https://cntv.sbs/live?auth=2307280808&id=bjjskj
+# 其他卫视
+- type: otherTV
+  group: 其他
+  list:
+    - name: 五星体育
+      logo: tv/五星体育.png
+      url: https://cntv.sbs/live?auth=2307280808&id=wxty
+    - name: 东方财经
+      logo: tv/东方财经.png
+      url: https://cntv.sbs/live?auth=2307280808&id=dfcj
+    - name: 第一财经
+      logo: tv/第一财经.png
+      url: https://cntv.sbs/live?auth=2307280808&id=dycj
+    - name: 法治天地
+      logo: tv/法治天地.png
+      url: https://cntv.sbs/live?auth=2307280808&id=fztd
+    - name: 欢笑剧场4K
+      logo: tv/欢笑剧场.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hxjc
+    - name: 都市剧场
+      logo: tv/都市剧场.png
+      url: https://cntv.sbs/live?auth=2307280808&id=dsjc
+    - name: 七彩戏剧
+      logo: tv/七彩戏剧.png
+      url: https://cntv.sbs/live?auth=2307280808&id=qcxj
+    - name: 劲爆体育
+      logo: tv/劲爆体育.png
+      url: https://cntv.sbs/live?auth=2307280808&id=jbty
+    - name: 新视觉
+      logo: tv/新视觉.png
+      url: https://cntv.sbs/live?auth=2307280808&id=xsj
+    - name: 游戏风云
+      logo: tv/游戏风云.png
+      url: https://cntv.sbs/live?auth=2307280808&id=yxfy
+    - name: 生活时尚
+      logo: tv/生活时尚.png
+      url: https://cntv.sbs/live?auth=2307280808&id=shss
+    - name: 金色学堂
+      logo: tv/金色学堂.png
+      url: https://cntv.sbs/live?auth=2307280808&id=jspd
+    - name: 乐游
+      logo: tv/乐游.png
+      url: https://cntv.sbs/live?auth=2307280808&id=qjs
+    - name: 魅力足球
+      logo: tv/魅力足球.png
+      url: https://cntv.sbs/live?auth=2307280808&id=mlzq
+    - name: 茶频道
+      logo: tv/茶.png
+      url: https://cntv.sbs/live?auth=2307280808&id=klcd
+    - name: 金鹰纪实
+      logo: tv/金鹰纪实.png
+      url: https://cntv.sbs/live?auth=2307280808&id=jyjs
+    - name: 财富天下
+      logo: tv/财富天下.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cftx
+    - name: CETV1
+      logo: tv/CETV1.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cetv1
+    - name: CETV2
+      logo: tv/CETV2.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cetv2
+    - name: CETV3
+      logo: tv/CETV3.png
+      url: http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+    - name: CETV4
+      logo: tv/CETV4.png
+      url: https://cntv.sbs/live?auth=2307280808&id=cetv4
+    - name: 梨园频道(备)
+      logo: tv/梨园频道.png
+      url: https://cntv.sbs/gd?auth=2307280808&id=1937
+    - name: 华语影院
+      logo: tv/华语影院.png
+      url: https://cntv.sbs/live?auth=2307280808&id=hyyy
+    - name: 中国天气
+      logo: tv/中国天气.png
+      url: https://cntv.sbs/live?auth=2307280808&id=zgtq
+    - name: 莲花卫视
+      logo: tv/莲花卫视.png
+      url: https://cntv.sbs/lhws?auth=2307280808
+    - name: 凤凰香港
+      logo: tv/凤凰香港.png
+      url: https://cntv.sbs/fs?id=fhhk&auth=2307280808
+# 综合剧场
+- type: theatre
+  group: 综合剧场
+  list:
+    - name: 华语影院
+      logo: tv/华语影院.png
+      url: https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+    - name: 电竞天堂
+      logo: tv/电竞天堂.png
+      url: https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+    - name: 星光影院
+      logo: tv/星光影院.png
+      url: https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+    - name: 谍战剧场
+      logo: tv/红色谍战剧场.png
+      url: https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+    - name: 全球大片
+      logo: tv/全球大片.png
+      url: https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+    - name: 热门剧场
+      logo: tv/热门剧场.png
+      url: https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+    - name: 超高清电影
+      logo: tv/CATCHPLAY电影.png
+      url: http://r.jdshipin.com/5DWJk
+    - name: CHC家庭影院
+      logo: tv/CHC家庭影院.png
+      url: http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+    - name: CHC动作电影
+      logo: tv/CHC动作电影.png
+      url: http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+    - name: CHC高清电影
+      logo: tv/CHC高清电影.png
+      url: http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+# 斗鱼
+- type: douyu
+  group: 斗鱼
+  list:
+    - name: 芜湖大司马丶
+      logo: game/芜湖大司马丶.jpg
+      url: https://live.yang-1989.top/douyu/606118
+    - name: 洞主丨歌神洞庭湖
+      logo: game/洞主丨歌神洞庭湖.jpg
+      url: https://live.yang-1989.top/douyu/138243
+    - name: 东北大鹌鹑
+      logo: game/东北大鹌鹑.jpg
+      url: https://live.yang-1989.top/douyu/96291
+    - name: 熊猫大G
+      logo: game/熊猫大G.jpg
+      url: https://live.yang-1989.top/douyu/6556593
+    - name: 杰克螳螂
+      logo: game/杰克螳螂.jpg
+      url: https://live.yang-1989.top/douyu/4814609
+    - name: 敬汉卿250
+      logo: game/敬汉卿250.jpg
+      url: https://live.yang-1989.top/douyu/2912165
+    - name: 滇西小哥
+      logo: game/滇西小哥.jpg
+      url: https://live.yang-1989.top/douyu/3243427
+    - name: 游天堂
+      logo: game/游天堂.jpg
+      url: https://live.yang-1989.top/douyu/2125
+    - name: 野食小哥
+      logo: game/野食小哥.jpg
+      url: https://live.yang-1989.top/douyu/1443964
+    - name: 旭旭宝宝
+      logo: game/旭旭宝宝.jpg
+      url: https://live.yang-1989.top/douyu/99999
+    - name: 牛叔说电影
+      logo: game/牛叔说电影.jpg
+      url: https://live.yang-1989.top/douyu/2758565
+    - name: Big茄子
+      logo: game/Big茄子.jpg
+      url: https://live.yang-1989.top/douyu/9418
+    - name: 斗鱼电影1
+      url: http://epg.112114.xyz/douyu/8985415
+    - name: 斗鱼电影2
+      url: http://epg.112114.xyz/douyu/9650887
+    - name: 斗鱼电影3
+      url: http://epg.112114.xyz/douyu/36337
+    - name: 斗鱼电影4
+      url: http://epg.112114.xyz/douyu/96577
+    - name: 斗鱼电影5
+      url: http://epg.112114.xyz/douyu/6140589
+    - name: 斗鱼电影6
+      url: http://epg.112114.xyz/douyu/20415
+    - name: 斗鱼电影7
+      url: http://epg.112114.xyz/douyu/122402
+    - name: 斗鱼电影8
+      url: http://epg.112114.xyz/douyu/9292492
+    - name: 斗鱼电影9
+      url: http://epg.112114.xyz/douyu/2516864
+    - name: 斗鱼电影10
+      url: http://epg.112114.xyz/douyu/4332
+    - name: 斗鱼电影11
+      url: http://epg.112114.xyz/douyu/9651304
+    - name: 斗鱼电影12
+      url: http://epg.112114.xyz/douyu/8814650
+    - name: 斗鱼电影13
+      url: http://epg.112114.xyz/douyu/8945323
+    - name: 斗鱼电影14
+      url: http://epg.112114.xyz/douyu/252802
+    - name: 斗鱼电影15
+      url: http://epg.112114.xyz/douyu/2436390
+    - name: 斗鱼电视剧HD1
+      url: http://epg.112114.xyz/douyu/2838296
+    - name: 斗鱼电视剧HD2
+      url: http://epg.112114.xyz/douyu/7489563
+    - name: 斗鱼电视剧HD3
+      url: http://epg.112114.xyz/douyu/6706214
+    - name: 斗鱼电视剧HD4
+      url: http://epg.112114.xyz/douyu/6566658
+# 虎牙
+- type: huya
+  group: 虎牙
+  list:
+    - name: 丶文森特
+      logo: game/V1ncent丶文森特.jpg
+      url: https://www.goodiptv.club/huya/949527
+    - name: 卡尔
+      logo: game/卡尔.jpg
+      url: https://www.goodiptv.club/huya/521000
