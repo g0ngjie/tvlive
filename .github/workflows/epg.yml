@@ -5,8 +5,8 @@ on:
   schedule:
     - cron: 0 * * * *
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
 jobs:
   build:
@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: EPG Update
         run: |
+          # http://epg.51zmt.top:8000/e.xml
           rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
           git config --global user.name Gj
           git config --global user.email gongjie0422@163.com
