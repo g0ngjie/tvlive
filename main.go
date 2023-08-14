@@ -36,7 +36,7 @@ func pkgContent(cfg []Config) (content string) {
 	content = Programme
 	for _, target := range cfg {
 		// #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.g0ngjie.com/tv/CCTV1.png" group-title="央视",CCTV-1
-		// https://cntv.sbs/live?auth=2307280808&id=cctv1
+		// https://cntv.sbs/tv?auth=230813&id=cctv1
 		for _, current := range target.List {
 			var extinf strings.Builder
 			extinf.WriteString("#EXTINF:-1 tvg-id=\"")
