@@ -1,4 +1,4 @@
-module tvlive
+module github.com/g0ngjie/tvlive
 
 go 1.20
 
